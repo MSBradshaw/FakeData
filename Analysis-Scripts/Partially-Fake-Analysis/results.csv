@@ -1,0 +1,3630 @@
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.44,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.58,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.56,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.58,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.56,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.46,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.54,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.58,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.56,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.42,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.58,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.42,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.58,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.42,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.46,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.56,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.56,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.56,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.4,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.56,KNN,PartiallyResampled1,0.10
+
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.62,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.54,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.4,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.52,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.44,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.48,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.48,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.54,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.54,KNN,PartiallyResampled1,0.10
+0,0.48,Random Forest,PartiallyResampled1,0.10
+1,0.52,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.5,KNN,PartiallyResampled1,0.10
+0,0.52,Random Forest,PartiallyResampled1,0.10
+1,0.48,GBC,PartiallyResampled1,0.10
+2,0.52,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled1,0.10
+1,0.5,GBC,PartiallyResampled1,0.10
+2,0.5,Naive Bayes,PartiallyResampled1,0.10
+3,0.46,KNN,PartiallyResampled1,0.10
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.42,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.44,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.44,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.54,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.38,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.38,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.58,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.38,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.56,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.58,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.44,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.58,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.4,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.58,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.4,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.42,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.42,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.58,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.46,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.42,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.46,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.44,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.42,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.6,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.6,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.58,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.46,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.42,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.54,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.44,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.52,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.62,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.58,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.56,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.48,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.4,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.46,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.42,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.44,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled2,0.20
+1,0.52,GBC,PartiallyResampled2,0.20
+2,0.48,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.42,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled2,0.20
+1,0.48,GBC,PartiallyResampled2,0.20
+2,0.52,Naive Bayes,PartiallyResampled2,0.20
+3,0.54,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled2,0.20
+1,0.5,GBC,PartiallyResampled2,0.20
+2,0.5,Naive Bayes,PartiallyResampled2,0.20
+3,0.5,KNN,PartiallyResampled2,0.20
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.58,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.42,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.58,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.56,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.54,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.46,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.42,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.44,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.56,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.42,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.56,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.56,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.58,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.46,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.44,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.6,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.56,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.42,KNN,PartiallyResampled3,0.30
+0,0.54,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.46,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.42,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.46,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.56,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.56,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.42,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.4,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.58,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.56,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.56,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.58,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.44,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.58,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.58,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.52,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.52,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.54,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.48,KNN,PartiallyResampled3,0.30
+0,0.44,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.52,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.42,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.54,GBC,PartiallyResampled3,0.30
+2,0.52,Naive Bayes,PartiallyResampled3,0.30
+3,0.5,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled3,0.30
+1,0.5,GBC,PartiallyResampled3,0.30
+2,0.5,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.48,Random Forest,PartiallyResampled3,0.30
+1,0.48,GBC,PartiallyResampled3,0.30
+2,0.48,Naive Bayes,PartiallyResampled3,0.30
+3,0.46,KNN,PartiallyResampled3,0.30
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.56,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.58,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.56,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.46,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.46,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.42,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.46,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.6,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.44,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.4,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.54,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.6,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.58,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.56,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.54,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.42,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.38,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.56,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.46,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.56,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.62,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.6,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.54,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.44,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.52,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.48,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.46,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.5,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.52,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.58,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.52,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.54,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.5,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.48,Random Forest,PartiallyResampled4,0.40
+1,0.48,GBC,PartiallyResampled4,0.40
+2,0.48,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.46,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled4,0.40
+1,0.5,GBC,PartiallyResampled4,0.40
+2,0.52,Naive Bayes,PartiallyResampled4,0.40
+3,0.46,KNN,PartiallyResampled4,0.40
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.58,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.46,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.44,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.56,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.54,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.42,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.54,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.42,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.46,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.58,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.44,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.4,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.46,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.54,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.56,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.46,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.46,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.42,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.44,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.58,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.46,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.44,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.54,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.56,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.46,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.48,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.48,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.52,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.36,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.52,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.58,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.5,KNN,PartiallyResampled5,0.50
+0,0.52,Random Forest,PartiallyResampled5,0.50
+1,0.56,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled5,0.50
+1,0.44,GBC,PartiallyResampled5,0.50
+2,0.52,Naive Bayes,PartiallyResampled5,0.50
+3,0.58,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.56,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.5,Naive Bayes,PartiallyResampled5,0.50
+3,0.54,KNN,PartiallyResampled5,0.50
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.58,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.42,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled5,0.50
+1,0.5,GBC,PartiallyResampled5,0.50
+2,0.48,Naive Bayes,PartiallyResampled5,0.50
+3,0.42,KNN,PartiallyResampled5,0.50
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.44,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.38,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.46,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.56,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.58,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.44,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.56,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.6,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.48,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.58,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.54,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.44,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.58,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.44,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.56,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.52,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.5,Naive Bayes,PartiallyResampled6,0.60
+3,0.38,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.54,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.44,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.42,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.52,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.52,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.48,Random Forest,PartiallyResampled6,0.60
+1,0.5,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.58,KNN,PartiallyResampled6,0.60
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled6,0.60
+1,0.48,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.46,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.46,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.44,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled6,0.60
+1,0.46,GBC,PartiallyResampled6,0.60
+2,0.48,Naive Bayes,PartiallyResampled6,0.60
+3,0.5,KNN,PartiallyResampled6,0.60
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.56,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.58,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.58,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.46,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.46,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.58,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.46,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.46,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.46,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.44,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.46,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.58,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.58,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.42,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.38,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.52,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.46,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.48,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.5,Naive Bayes,PartiallyResampled7,0.70
+3,0.5,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.48,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.44,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.56,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.44,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.52,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.54,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.48,Random Forest,PartiallyResampled7,0.70
+1,0.52,GBC,PartiallyResampled7,0.70
+2,0.52,Naive Bayes,PartiallyResampled7,0.70
+3,0.54,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.64,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.42,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.58,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled7,0.70
+1,0.5,GBC,PartiallyResampled7,0.70
+2,0.48,Naive Bayes,PartiallyResampled7,0.70
+3,0.46,KNN,PartiallyResampled7,0.70
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.62,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.38,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.56,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.44,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.6,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.58,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.6,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.46,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.54,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.42,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.42,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.48,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.5,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.58,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.44,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.52,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.54,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled8,0.80
+1,0.58,GBC,PartiallyResampled8,0.80
+2,0.48,Naive Bayes,PartiallyResampled8,0.80
+3,0.42,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.52,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.46,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.56,KNN,PartiallyResampled8,0.80
+0,0.48,Random Forest,PartiallyResampled8,0.80
+1,0.48,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.62,KNN,PartiallyResampled8,0.80
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.56,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.58,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.44,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.44,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.44,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.58,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.58,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.56,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.6,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled8,0.80
+1,0.5,GBC,PartiallyResampled8,0.80
+2,0.52,Naive Bayes,PartiallyResampled8,0.80
+3,0.5,KNN,PartiallyResampled8,0.80
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.44,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.44,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.44,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.62,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.46,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.38,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.44,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.56,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.48,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.56,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.6,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.6,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.42,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.54,GBC,PartiallyResampled9,0.90
+2,0.5,Naive Bayes,PartiallyResampled9,0.90
+3,0.52,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.48,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.56,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.46,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.54,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.5,KNN,PartiallyResampled9,0.90
+0,0.48,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.52,Random Forest,PartiallyResampled9,0.90
+1,0.52,GBC,PartiallyResampled9,0.90
+2,0.48,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
+0,0.5,Random Forest,PartiallyResampled9,0.90
+1,0.5,GBC,PartiallyResampled9,0.90
+2,0.52,Naive Bayes,PartiallyResampled9,0.90
+3,0.46,KNN,PartiallyResampled9,0.90
