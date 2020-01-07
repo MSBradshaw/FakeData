@@ -7,3 +7,12 @@ In the financial sector, machine learning and digit-preference are successfully 
 
 See our pre-press article at:
 https://www.biorxiv.org/content/10.1101/757070v1
+
+
+## Figure Producing Scripts
+Figure 1: FakeData/Data/Figure-1-plotter.R
+Figure 2: FakeData/Analysis-Scripts/Generic-Analysis/Figure-2-plotter.R
+Figure 3: FakeData/Analysis-Scripts/Generic-Analysis/Figure-3-plotter.R
+Figure 4: FakeData/Analysis-Scripts/Feature-Sensitivity-Analysis/Figure-4-plotter.R
+
+Supplemental Figure 2: FakeData/Analysis-Scripts/Generic-Analysis/Supplemental-Figure-3.R
