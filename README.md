@@ -10,9 +10,9 @@ https://www.biorxiv.org/content/10.1101/757070v1
 
 
 ## Figure Producing Scripts
-Figure 1: FakeData/Data/Figure-1-plotter.R
-Figure 2: FakeData/Analysis-Scripts/Generic-Analysis/Figure-2-plotter.R
-Figure 3: FakeData/Analysis-Scripts/Generic-Analysis/Figure-3-plotter.R
-Figure 4: FakeData/Analysis-Scripts/Feature-Sensitivity-Analysis/Figure-4-plotter.R
-
-Supplemental Figure 2: FakeData/Analysis-Scripts/Generic-Analysis/Supplemental-Figure-3.R
+Figure 1: FakeData/Data/Figure-1-plotter.R<br />
+Figure 2: FakeData/Analysis-Scripts/Generic-Analysis/Figure-2-plotter.R<br />
+Figure 3: FakeData/Analysis-Scripts/Generic-Analysis/Figure-3-plotter.R<br />
+Figure 4: FakeData/Analysis-Scripts/Feature-Sensitivity-Analysis/Figure-4-plotter.R<br />
+<br />
+Supplemental Figure 3: FakeData/Analysis-Scripts/Generic-Analysis/Supplemental-Figure-3.R<br />
