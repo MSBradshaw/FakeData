@@ -21,8 +21,6 @@ Analysis-Scripts/Generic-Analysis/resample-cna-50-ff
 
 Data/Data-Uncompressed-Original
 
+*.Rproj
 
-
-
-
-
+.Rproj.user

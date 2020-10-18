@@ -2,7 +2,7 @@ library(readr)
 library(tibble)
 library(ggplot2)
 
-data <- read_tsv('Holden/Data/Data-Uncompressed-Original/proteomics.cct')
+data <- read_tsv('Data/Data-Uncompressed-Original/proteomics.cct')
 
 
 #get the protein names

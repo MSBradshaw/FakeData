@@ -35,7 +35,7 @@ make_fake <- function(data, inds, percent){
   return(fakes)
 }
 
-make_test_train(data,inds,percent,trainfile,testfile){
+make_test_train <- function(data,inds,percent,trainfile,testfile,genes){
   # returns a matrix of the 50 fake samples
   d <- make_fake(data,inds,percent)
   colnames(d) <- paste('fake-',c(1:ncol(d)),sep='')
@@ -74,23 +74,22 @@ make_test_train(data,inds,percent,trainfile,testfile){
   train$labels <- labels
   test$labels <- labels
   
-  colnames(train) <- data$idx
-  colnames(test) <- data$idx
+  colnames(train) <- genes
+  colnames(test) <- genes
   
   write_csv(train,trainfile)
   write_csv(test,testfile)
 }
 
-x <- make_fake(data_og[,2:ncol(data_og)],samples,.5)
-
 #for the percentages 10 - 90
 #for the replicates 20 each
 for(p in c(.1,.2,.3,.4,.5,.6,.7,.8,.9)){
-  for(j in seq(1:20)){
+  for(j in seq(1:1)){
     test_name <- paste('Data/Partially-Fake/CNA-',p,'/partially-fake-test-',j,'.csv',sep='')
     train_name <- paste('Data/Partially-Fake/CNA-',p,'/partially-fake-train-',j,'.csv',sep='')
-    samples <- sample(1:100,50)
-    make_fake(data_og[,2:ncol(data_og)],samples,p)
+    samples <- sample(2:101,50)
+    genes <- data_og$idx
+    make_test_train(data_og[,2:ncol(data_og)],samples,p,test_name,train_name,genes)
   }
 }
 
