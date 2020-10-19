@@ -99,7 +99,7 @@ resP <- ggplot(dataRes, aes(x=Model, y=score, fill=Model)) +
 # make a multi-panel plot
 p5 <- ggarrange(ranP,resP,labels = c('A','B'), ncol=2, font.label = list(size = 10))
 
-p6 <- ggarrange(p5,impP,labels = c('','c'), nrow=2, font.label = list(size = 10))
+p6 <- ggarrange(p5,impP,labels = c('','C'), nrow=2, font.label = list(size = 10))
 p6
 
 ggsave(plot = p6,'Figures/Figure-2.png',width = 5, height = 3.75, units = c("in"), dpi = 300)
