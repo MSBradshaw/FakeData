@@ -64,19 +64,21 @@ ggplot(data = d,aes(x=size,y=score,color=Model))  + geom_point() +
   xlab('Number of Measurements') +
   ylab('Mean Accuracy of 100 Replicates') + 
   geom_line() + scale_x_continuous(breaks = 1:21,
-                                   labels = c('10','20','30','40','50','60','70','80','90',
-                                              '100','500','1000','2000','4000','6000','8000',
-                                              '10000','12000','14000','16000','17000')) +
+                                   labels = c('10 ','20 ','30 ','40 ','50 ','60 ','70 ','80 ','90 ',
+                                              '100 ','500 ','1000 ','2000 ','4000 ','6000 ','8000 ',
+                                              '10000 ','12000 ','14000 ','16000 ','17000 ')) +
   theme_bw() +
-  theme(plot.title = element_text(size=48), 
-        legend.text=element_text(size=20),
-        legend.title=element_text(size=20),
-        axis.title.y=element_text(size=20),
-        axis.title.x=element_text(size=20),
-        panel.grid.minor = element_line(size = 1), 
-        panel.grid.major = element_line(size = 1),) + 
+  theme(plot.title = element_text(size=24), 
+        legend.text=element_text(size=10),
+        legend.title=element_text(size=10),
+        axis.title.y=element_text(size=10),
+        axis.title.x=element_text(size=10),
+        axis.text.x = element_text(size=7,angle=45),
+        axis.text.y = element_text(size=7),
+        panel.grid.minor = element_line(size = .5), 
+        panel.grid.major = element_line(size = .5),) + 
   scale_fill_manual(values=cbPalette) + 
   scale_colour_manual(values=cbPalette)
 
-ggsave('Figures/Figure-4.png',device='png',units='in',width = 15, height = 10,dpi=300)
-ggsave('Figures/Figure-4.tiff',device='tiff',units='in',width = 15, height = 10,dpi=300)
+ggsave('Figures/Figure-4.png',device='png',units='in',width = 7.5, height = 5,dpi=300)
+ggsave('Figures/Figure-4.tiff',device='tiff',units='in',width = 7.5, height = 5,dpi=300)

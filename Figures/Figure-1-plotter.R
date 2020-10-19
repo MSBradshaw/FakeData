@@ -57,5 +57,5 @@ ggplot(data = data,aes(x=PC1,y=PC2,color=Type)) + geom_point() +
   scale_fill_manual(values=cbPalette) + 
   scale_colour_manual(values=cbPalette)
 
-ggsave('Figures/Figure-1.png', device='png',width = 12.5, height = 10, units = c("in"),dpi = 300)
-ggsave('Figures/Figure-1.tiff', device='tiff',width = 12.5, height = 10, units = c("in"),dpi = 300)
+ggsave('Figures/Figure-1.png', device='png',width = 6.25, height = 5, units = c("in"),dpi = 300)
+ggsave('Figures/Figure-1.tiff', device='tiff',width = 6.25, height = 5, units = c("in"),dpi = 300)
