@@ -6,18 +6,18 @@ library(ggpubr)
 
 
 #read in imputed data
-dataImp <- read_csv('Analysis-Scripts/Generic-Analysis/imputation-cna-results/imputation-cna-results-4.csv')
+dataImp <- read_csv('Results/imputation_benford_4.csv')
 
 for(i in seq(5,50)){
   print(i)
-  temp <- read_csv(paste('Analysis-Scripts/Generic-Analysis/imputation-cna-results/imputation-cna-results-',i,'.csv',sep=''))
+  temp <- read_csv(paste('Results/imputation_benford_',i,'.csv',sep=''))
   dataImp <- bind_rows(dataImp,temp)
 }
 
 colnames(dataImp) <- c('X1','score','Model')
 #remove the MLP and SVC from the results because they are crappy
 dataImp = dataImp[dataImp$Model != 'MLP',]
-dataImp = dataImp[dataImp$Model != 'SVC',]
+#dataImp = dataImp[dataImp$Model != 'SVC',]
 dataImp[dataImp$Model == 'Random Forest',]$Model <- 'RF                                                   '
 dataImp[dataImp$Model == 'Naive Bayes',]$Model <- 'NB'
 
@@ -44,9 +44,9 @@ impP <- ggplot(dataImp, aes(x=Model, y=score, fill=Model)) +
 
 
 #read in random data
-dataRan <- read_csv('Analysis-Scripts/Generic-Analysis/random-cna-results/random-cna-results-1.csv')
+dataRan <- read_csv('Results/random_benford_1.csv')
 for(i in seq(2:50)){
-  temp <- read_csv(paste('Analysis-Scripts/Generic-Analysis/random-cna-results/random-cna-results-',i,'.csv',sep=''))
+  temp <- read_csv(paste('Results/random_benford_',i,'.csv',sep=''))
   dataRan <- bind_rows(dataRan,temp)
 }
 
@@ -54,7 +54,7 @@ for(i in seq(2:50)){
 colnames(dataRan) <- c('X1','score','Model')
 #remove the MLP and SVC from the results because they are crappy
 dataRan = dataRan[dataRan$Model != 'MLP',]
-dataRan = dataRan[dataRan$Model != 'SVC',]
+#dataRan = dataRan[dataRan$Model != 'SVC',]
 dataRan[dataRan$Model == 'Random Forest',]$Model <- 'RF'
 dataRan[dataRan$Model == 'Naive Bayes',]$Model <- 'NB'
 
@@ -79,9 +79,9 @@ ranP <- ggplot(dataRan, aes(x=Model, y=score, fill=Model)) +
 
 
 #read in resampling data
-dataRes <- read_csv('Analysis-Scripts/Generic-Analysis/cna-resampling-results/resample-cna-1.csv')
+dataRes <- read_csv('Results/resampled_benford_1.csv')
 for(i in seq(2:50)){
-  temp <- read_csv(paste('Analysis-Scripts/Generic-Analysis/cna-resampling-results/resample-cna-',i,'.csv',sep=''))
+  temp <- read_csv(paste('Results/resampled_benford_',i,'.csv',sep=''))
   dataRes <- bind_rows(dataRes,temp)
 }
 
@@ -89,7 +89,7 @@ for(i in seq(2:50)){
 colnames(dataRes) <- c('X1','score','Model')
 #remove the MLP and SVC from the results because they are crappy
 dataRes = dataRes[dataRes$Model != 'MLP',]
-dataRes = dataRes[dataRes$Model != 'SVC',]
+#dataRes = dataRes[dataRes$Model != 'SVC',]
 dataRes[dataRes$Model == 'Random Forest',]$Model <- 'RF'
 dataRes[dataRes$Model == 'Naive Bayes',]$Model <- 'NB'
 

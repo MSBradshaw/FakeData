@@ -1,0 +1,7 @@
+,score,learner,type
+0,0.96,Random Forest,resampled
+1,0.0,SVC,resampled
+2,0.8627450980392156,GBC,resampled
+3,0.96,Naive Bayes,resampled
+4,0.8620689655172413,KNN,resampled
+5,0.0,MLP,resampled

@@ -1,0 +1,6 @@
+,score,learner,type
+0,1.0,Random Forest,TESTDEL
+1,1.0,SVC,TESTDEL
+2,1.0,GBC,TESTDEL
+3,0.6666666666666666,Naive Bayes,TESTDEL
+4,1.0,KNN,TESTDEL

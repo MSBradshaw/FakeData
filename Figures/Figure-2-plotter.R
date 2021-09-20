@@ -5,9 +5,9 @@ library(dplyr)
 library(ggpubr)
 
 #read in imputed data
-dataImp <- read_csv('Analysis-Scripts/Generic-Analysis/imputation-cna-50-ff/imputation-cna-results-ff-4.csv')
+dataImp <- read_csv('Results/imputation_ff_4.csv')
 for(i in seq(5,50)){
-  temp <- read_csv(paste('Analysis-Scripts/Generic-Analysis/imputation-cna-50-ff/imputation-cna-results-ff-',i,'.csv',sep=''))
+  temp <- read_csv(paste('R/imputation_ff_',i,'.csv',sep=''))
   dataImp <- bind_rows(dataImp,temp)
 }
 colnames(dataImp) <- c('X1','score','Model')
@@ -37,9 +37,9 @@ impP <- ggplot(dataImp, aes(x=Model, y=score, fill=Model)) +
 impP
 
 #read in random data
-dataRan <- read_csv('Analysis-Scripts/Generic-Analysis/random-cna-50-ff/random-cna-results-ff-1.csv')
+dataRan <- read_csv('Results/random_ff_1.csv')
 for(i in seq(2,50)){
-  temp <- read_csv(paste('Analysis-Scripts/Generic-Analysis/random-cna-50-ff/random-cna-results-ff-',i,'.csv',sep=''))
+  temp <- read_csv(paste('Results/random_ff_',i,'.csv',sep=''))
   dataRan <- bind_rows(dataRan,temp)
 }
 colnames(dataRan) <- c('X1','score','Model')
@@ -67,9 +67,9 @@ ranP <- ggplot(dataRan, aes(x=Model, y=score, fill=Model)) +
 ranP
 
 #read in resampled data
-dataRes <- read_csv('Analysis-Scripts/Generic-Analysis/resample-cna-50-ff/resample-cna-results-ff-1.csv')
+dataRes <- read_csv('Results/resampled_ff_1.csv')
 for(i in seq(2,50)){
-  temp <- read_csv(paste('Analysis-Scripts/Generic-Analysis/resample-cna-50-ff/resample-cna-results-ff-',i,'.csv',sep=''))
+  temp <- read_csv(paste('Results/resampled_ff_',i,'.csv',sep=''))
   dataRes <- bind_rows(dataRes,temp)
 }
 colnames(dataRes) <- c('X1','score','Model')
