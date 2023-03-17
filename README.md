@@ -4,6 +4,10 @@ Fraud is a pervasive problem and can occur as fabrication, falsification, plagia
 ## Results:
 In the financial sector, machine learning and digit-preference are successfully used to detect fraud. Drawing from these sources, we develop methods of fabrication detection in biomedical research and show that machine learning can be used to detect fraud in large-scale omic experiments. Using the raw data as input, the best machine learning models correctly predicted fraud with 84-95% accuracy. With digit frequency as input features, the best models detected fraud with 98%-100% accuracy.
 
+Published article:
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260395
 
 See our pre-press article at:
+
 https://www.biorxiv.org/content/10.1101/757070v1
